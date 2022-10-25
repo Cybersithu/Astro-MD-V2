@@ -89,7 +89,7 @@
                             "BUTTONURL" :{
     "description" : "alive button url",
     "required" : true,
-  "value" : "youtube.com/hjwn7skv"
+  "value" : "https://chat.whatsapp.com/CpOVm1mqWnFDNZDr6ed9sc"
 }, 
                            "onlygroup" :{
     "description" : "onlygroup",
